@@ -19,9 +19,6 @@
         <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
-
-# ¡Hola! 👋
-
 ¡Bienvenido a mi perfil de GitHub! Soy Santiago Gauna, un apasionado desarrollador siempre buscando aprender y mejorar mis habilidades en el mundo de la programación.
 
 ## Sobre mí
