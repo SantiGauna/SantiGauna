@@ -2,20 +2,20 @@
     I'm Santiago</h1>
 <h3 align="center">Software Developer | Tester QA</h3>
 <p align="center">
-    <a href="https://stackoverflow.com/users/1518978" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow"
             height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/marcos-casor-pressacco-086ab321/" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
             height="30" width="40" /></a>
-    <a href="https://www.facebook.com/marcos.casor/" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marcos casor"
             height="30" width="40" /></a>
-    <a href="mailto: marcos.casor@gmail.com">
+    <a href="">
         <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/marcos.casor/" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
-    <a href="https://twitter.com/marcosicp/" target="blank">
+    <a href="" target="blank">
         <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
