@@ -20,10 +20,47 @@
 </p>
 
 
-✔ I’m currently developing _C#_ **Angular** **Flutter**<br>
-✔ I’m always learning **Flutter** **Firebase** **Python**<br>
-✔ **Android Studio,** **Visual Studio,** **VSCode** **XCode** rocks!<br>
-✔ Always open to learn new tech!😉<br>
+# ¡Hola! 👋
+
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un apasionado desarrollador siempre buscando aprender y mejorar mis habilidades en el mundo de la programación.
+
+## Sobre mí
+
+- 💻 Actualmente estoy desarrollando proyectos en C#, Angular y Flutter.
+- 📚 Siempre estoy aprendiendo más sobre Flutter, Firebase y Python.
+- 🛠 Me siento cómodo trabajando con Android Studio, Visual Studio y VSCode, y siempre estoy abierto a explorar nuevas herramientas.
+
+## Tecnologías
+
+Aquí hay algunas de las tecnologías con las que trabajo:
+
+- Angular
+- HTML
+- CSS
+- JavaScript
+- SQL
+- C#
+- Flutter
+- Firebase
+- Python
+
+## Herramientas
+
+Estas son algunas de las herramientas que suelo utilizar:
+
+- Android Studio
+- Visual Studio
+- VSCode
+- XCode
+
+## Contacto
+
+¡Estoy emocionado por conectar contigo y explorar juntos el mundo de la programación!
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/) y [Twitter](https://twitter.com/tu_usuario).
+
+¡Hagamos cosas increíbles juntos! 😊
+<br>
 <br><br><br>
 
 **Languages** **&** **Tools** **I** **Have** **Use**
