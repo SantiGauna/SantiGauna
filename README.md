@@ -26,8 +26,8 @@
 
 ## Sobre mí
 
-- 💻 Actualmente estoy desarrollando proyectos en C#, Angular y Flutter.
-- 📚 Siempre estoy aprendiendo más sobre Flutter, Firebase y Python.
+- 💻 Actualmente estoy desarrollando proyectos en C# y Angular
+- 📚 Siempre estoy aprendiendo más sobre el Desarrollo Web.
 - 🛠 Me siento cómodo trabajando con Android Studio, Visual Studio y VSCode, y siempre estoy abierto a explorar nuevas herramientas.
 
 ## Tecnologías
@@ -40,8 +40,6 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 - JavaScript
 - SQL
 - C#
-- Flutter
-- Firebase
 - Python
 
 ## Herramientas
@@ -51,7 +49,7 @@ Estas son algunas de las herramientas que suelo utilizar:
 - Android Studio
 - Visual Studio
 - VSCode
-- XCode
+
 
 ## Contacto
 
