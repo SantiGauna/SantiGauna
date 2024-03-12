@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h3 align="center">Software Developer | Tester QA</h3>
+
 <!--
 **SantiGauna/SantiGauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
