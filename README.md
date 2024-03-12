@@ -19,17 +19,6 @@
         <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-    <em>
-        Let me tell you about myself, I'am graduated from <a href="https://www.cervantes.edu.ar/"> <b>Cervantes Institute</b></a>. <br>
-        A <b>Full-Stack Software Developer</b> <img
-            src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and
-        a <b>Competitive Programming Enthusiast</b>&nbsp;<img
-            src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"
-            width="36px">&nbsp,<br>
-    </em>
-    <br>
-</p>
 
 ✔ I’m currently developing _C#_ **Angular** **Flutter**<br>
 ✔ I’m always learning **Flutter** **Firebase** **Python**<br>
