@@ -18,6 +18,7 @@
     <a href="" target="blank">
         <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
+<br>
 
 Welcome to my GitHub profile! I'm Santiago Gauna, a passionate developer always seeking to learn and improve my skills in the world of programming.
 
