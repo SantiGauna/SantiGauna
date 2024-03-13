@@ -19,42 +19,34 @@
         <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
 </p>
 
-¡Bienvenido a mi perfil de GitHub! Soy Santiago Gauna, un apasionado desarrollador siempre buscando aprender y mejorar mis habilidades en el mundo de la programación.
+Welcome to my GitHub profile! I'm Santiago Gauna, a passionate developer always seeking to learn and improve my skills in the world of programming.
 
-## Sobre mí
+About Me
+💻 Currently, I'm working on projects in C# and Angular.
+📚 I'm always learning more about Web Development.
+🛠 I feel comfortable working with Android Studio, Visual Studio, and VSCode, and I'm always open to exploring new tools.
+Technologies
+Here are some of the technologies I work with:
 
-- 💻 Actualmente estoy desarrollando proyectos en C# y Angular
-- 📚 Siempre estoy aprendiendo más sobre el Desarrollo Web.
-- 🛠 Me siento cómodo trabajando con Android Studio, Visual Studio y VSCode, y siempre estoy abierto a explorar nuevas herramientas.
+Angular
+HTML
+CSS
+JavaScript
+SQL
+C#
+Python
+Tools
+These are some of the tools I usually use:
 
-## Tecnologías
+Android Studio
+Visual Studio
+VSCode
+Contact
+I'm excited to connect with you and explore the world of programming together!
 
-Aquí hay algunas de las tecnologías con las que trabajo:
+You can find me on LinkedIn and Twitter.
 
-- Angular
-- HTML
-- CSS
-- JavaScript
-- SQL
-- C#
-- Python
-
-## Herramientas
-
-Estas son algunas de las herramientas que suelo utilizar:
-
-- Android Studio
-- Visual Studio
-- VSCode
-
-
-## Contacto
-
-¡Estoy emocionado por conectar contigo y explorar juntos el mundo de la programación!
-
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/) y [Twitter](https://twitter.com/tu_usuario).
-
-¡Hagamos cosas increíbles juntos! 😊
+Let's create amazing things together! 😊
 <br>
 <br><br><br>
 
