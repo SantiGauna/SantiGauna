@@ -82,28 +82,7 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/) y [Twit
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="nodejs" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="rxjs" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="bootstrap" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="50px" height="50px" style="max-width: 100%;"></code> 
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="azure" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jquery" width="50px" height="50px" style="max-width: 100%;"></code>
-</p>
-<p align="center">
-    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px"
-        alt="GitHub-Status" />&nbsp;<i><b>GitHub Stats</b></i>
-    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" />
-</p>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosicp&show_icons=true&locale=en&layout=compact"
-    alt="marcosicp" 
-    style="flex: 1;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marcosicp&show_icons=true&locale=en"
-    alt="marcosicp"
-    width="395"
-    style="flex: 1;"
-  />
 </p>
 
 <hr width="100%" margin-top="5%"></hr>
