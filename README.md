@@ -21,11 +21,13 @@
 
 Welcome to my GitHub profile! I'm Santiago Gauna, a passionate developer always seeking to learn and improve my skills in the world of programming.
 
-About Me
+##About Me
 💻 Currently, I'm working on projects in C# and Angular.
 📚 I'm always learning more about Web Development.
 🛠 I feel comfortable working with Android Studio, Visual Studio, and VSCode, and I'm always open to exploring new tools.
-Technologies
+
+
+##Technologies
 Here are some of the technologies I work with:
 
 Angular
