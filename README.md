@@ -65,7 +65,7 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/) y [Twit
     <code> <img height="50" src="https://img.icons8.com/fluency/50/000000/docker.png"> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </code>
-    <code > <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </code>
+    <code> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
@@ -77,7 +77,6 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-nombre/) y [Twit
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="nestjs" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="reactjs" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="nodejs" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="rxjs" width="50px" height="50px" style="max-width: 100%;"></code>
