@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
     I'm Santiago</h1>
 <h3 align="center">Software Developer | Tester QA</h3>
 <p align="center">
@@ -22,12 +22,14 @@
 Welcome to my GitHub profile! I'm Santiago Gauna, a passionate developer always seeking to learn and improve my skills in the world of programming.
 
 <h4>About Me</h4>
+<hr>
 💻 Currently, I'm working on projects in C# and Angular.
 📚 I'm always learning more about Web Development.
 🛠 I feel comfortable working with Android Studio, Visual Studio, and VSCode, and I'm always open to exploring new tools.
 
 
 <h4>Technologies</h4>
+<hr>
 Here are some of the technologies I work with:
 
 Angular
