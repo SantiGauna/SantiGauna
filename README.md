@@ -60,17 +60,11 @@ Let's create amazing things together! 😊
 
 <p align="left"> 
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
-    <code> <img height="50" src="https://img.icons8.com/fluency/50/000000/docker.png"> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </code>
-    <code> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> </code>
     <code> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> </code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/mariadb-icon.svg" alt="mariadb" width="50px" height="50px"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="50px" height="50px" style="max-width: 100%;"></code>
