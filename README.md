@@ -69,8 +69,7 @@ Let's create amazing things together! 😊
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="reactjs" width="50px" height="50px" style="max-width: 100%;"></code>
-
-
+    <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" alt="godot" width="50px" height="50px" style="max-width: 100%;"</code>
 </p>
 
 <hr width="100%" margin-top="5%"></hr>
