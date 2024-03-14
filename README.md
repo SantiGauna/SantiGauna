@@ -74,11 +74,8 @@ Let's create amazing things together! 😊
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/mariadb-icon.svg" alt="mariadb" width="50px" height="50px"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="npm" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/xamarin.svg" alt="xamarin" width="50px" height="50px" style="max-width: 100%;"></code>
     <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="reactjs" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="nodejs" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="rxjs" width="50px" height="50px" style="max-width: 100%;"></code>
-    <code> <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="bootstrap" width="50px" height="50px" style="max-width: 100%;"></code>
+
 
 </p>
 
