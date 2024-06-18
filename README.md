@@ -15,8 +15,7 @@
         <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
     <a href="" target="blank">
         <img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
-    <a href="" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
+
 </p>
 <br>
 
