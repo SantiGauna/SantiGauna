@@ -20,11 +20,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 📦 Instalar Newman y reporter HTML
+      - name: 📦 Instalar Newman y reporter HTML (versiones compatibles)
         working-directory: ./postman-api-testing
         run: |
-          npm install newman
-          npm install newman-reporter-html
+          npm install newman@4.6.1 newman-reporter-html@1.0.5
+
 
       - name: 🧪 Ejecutar colección Postman con Newman
         working-directory: ./postman-api-testing
