@@ -1,0 +1,32 @@
+name: Playwright UI Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: 📁 Ir a la carpeta del proyecto
+        working-directory: ./playwright-ui-base
+        run: echo "📂 Entrando a playwright-ui-base"
+
+      - name: 🧰 Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Instalar dependencias y Playwright
+        working-directory: ./playwright-ui-base
+        run: |
+          npm install
+          npx playwright install --with-deps
+
+      - name: 🧪 Ejecutar pruebas
+        working-directory: ./playwright-ui-base
+        run: |
+          npx playwright test
