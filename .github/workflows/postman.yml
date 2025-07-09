@@ -1,0 +1,38 @@
+name: Postman API Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: 📁 Ir a la carpeta del proyecto Postman
+        working-directory: ./postman-api-testing
+        run: echo "📂 Entrando a postman-api-testing"
+
+      - name: 🦄 Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Instalar Newman y reporter HTML
+        working-directory: ./postman-api-testing
+        run: |
+          npm install newman
+          npm install newman-reporter-html
+
+      - name: 🧪 Ejecutar colección Postman con Newman
+        working-directory: ./postman-api-testing
+        run: |
+          npx newman run ./collections/Tests_Reqres.postman_collection.json -e ./environments/REQRES.postman_environment.json -r cli,html --reporter-html-export newman/report.html
+          
+      - name: 📎 Subir reporte HTML como artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Newman Report
+          path: newman/report.html
