@@ -14,7 +14,7 @@ Me apasiona aprender nuevas herramientas, mejorar los frameworks de testing y as
 JavaScript · Python · HTML/CSS · Bash
 
 **Frameworks de testing:**  
-Playwright · Selenium · Jest · Mocha/Chai · Pytest
+Playwright · Selenium · Cypress · Pytest
 
 **Pruebas de APIs:**  
 Postman · REST Assured (aprendiendo) · Swagger
