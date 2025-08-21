@@ -24,7 +24,7 @@ Git · GitHub · GitLab · Jenkins (básico) · Docker (en exploración)
 
 ---
 
-## 📂 Repositorios Destacados (Próximamente)
+## 📂 Repositorios Destacados
 
 - ⚙️ Framework de automatización con Playwright + JavaScript  
 - 🔍 Automatización de pruebas de API con Postman (colecciones + scripts)  
