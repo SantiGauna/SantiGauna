@@ -1,42 +1,41 @@
-# 👋 ¡Hola! Soy Santiago Gauna
+# Hola, soy Santiago Gauna
 
-**QA Analyst | QA Automation Enthusiast | Playwright & Selenium**
+**Frontend Developer** con experiencia en **QA y automatización de pruebas** · Córdoba, Argentina
 
-Soy de Córdoba, Argentina, y trabajo en el área de testing hace más de 4 años. Me especializo en pruebas manuales y en automatización, principalmente con **Playwright + JavaScript**, pero también tengo experiencia con **Selenium**, **Python**, y pruebas de APIs con **Postman**.
+Desarrollo interfaces web modernas, responsive y mantenibles con **React, Angular y TypeScript**. Vengo del mundo del testing: trabajo en QA hace más de 4 años, con pruebas manuales y automatización. Esa experiencia cambia cómo desarrollo: pienso en los casos límite, los estados de error y la experiencia real de quien usa la aplicación desde el principio, no al final.
 
-Me apasiona aprender nuevas herramientas, mejorar los frameworks de testing y asegurar la calidad del software en todas las etapas del desarrollo.
+Soy **Técnico Superior en Desarrollo Web y Aplicaciones Digitales** y trabajo como freelance en proyectos frontend.
 
----
-
-## 🛠️ Stack Tecnológico
-
-**Lenguajes:**  
-JavaScript · Python · HTML/CSS · Bash
-
-**Frameworks de testing:**  
-Playwright · Selenium · Cypress · Pytest
-
-**Pruebas de APIs:**  
-Postman · REST Assured (aprendiendo) · Swagger
-
-**Otras herramientas:**  
-Git · GitHub · GitLab · Jenkins (básico) · Docker (en exploración)
+**Portfolio:** [portfoliosantigauna.netlify.app](https://portfoliosantigauna.netlify.app)
 
 ---
 
-## 📂 Repositorios Destacados
+## Qué hago
 
-- ⚙️ Framework de automatización con Playwright + JavaScript  
-- 🔍 Automatización de pruebas de API con Postman (colecciones + scripts)  
-- 🧪 Testing con Selenium + Python (Pytest + Page Object Model)  
-- 🚀 Ejemplo de integración con GitHub Actions para correr tests automáticamente
+- Desarrollo de interfaces web y componentes reutilizables
+- Conversión de diseños de Figma o prototipos a código
+- Dashboards y paneles administrativos integrados con APIs
+- Mantenimiento y corrección de errores en aplicaciones existentes
+- Mejoras de responsive, accesibilidad y rendimiento
+- Automatización de pruebas end-to-end y de APIs
 
----
+## Stack
 
-## 🔗 Conectemos
+**Frontend**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/santiago-gauna-martínez)
+![Frontend](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,vite)
 
----
+**Testing y QA**
 
-_En proceso de creación de mi portafolio técnico. Próximamente más proyectos, documentación y desafíos resueltos. ¡Gracias por pasar!_
+Playwright · Selenium · Cypress · Pytest · Postman ·
+Mi sitio personal, con diseño editorial, animaciones ligadas al scroll, formulario de contacto con Netlify Forms y atención a la accesibilidad (navegación por teclado y respeto de "reducir movimiento").
+
+`React` `TypeScript` `Tailwind CSS` `Motion` `Netlify`
+
+## Contacto
+
+- **Email:** [sgaunamartinez@gmail.com](mailto:sgaunamartinez@gmail.com)
+- **LinkedIn:** [santiago-gauna-martínez](https://www.linkedin.com/in/santiago-gauna-martínez)
+- **Portfolio:** [portfoliosantigauna.netlify.app](https://portfoliosantigauna.netlify.app)
+
+¿Tenés un proyecto en mente? Escribime y lo charlamos.
