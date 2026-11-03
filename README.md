@@ -6,7 +6,7 @@ Desarrollo aplicaciones web completas: interfaces modernas con **React, Angular 
 
 Soy **Técnico Superior en Desarrollo Web y Aplicaciones Digitales** y trabajo como freelance.
 
-**Portfolio:** [portfoliosantigauna.netlify.app](https://portfoliosantigauna.netlify.app)
+**Portfolio:** [portfoliosantigauna.netlify.app](santigauna.netlify.app)
 
 ---
 
