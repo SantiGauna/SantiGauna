@@ -6,7 +6,7 @@ Desarrollo aplicaciones web completas: interfaces modernas con **React, Angular 
 
 Soy **Técnico Superior en Desarrollo Web y Aplicaciones Digitales** y trabajo como freelance.
 
-**Portfolio:** [santigauna.netlify.app](santigauna.netlify.app)
+**Portfolio:** [santigauna.netlify.app](https://santigauna.netlify.app)
 
 ---
 
@@ -24,6 +24,9 @@ Soy **Técnico Superior en Desarrollo Web y Aplicaciones Digitales** y trabajo c
 
 **Frontend**
 
+![Frontend](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,vite)
+
+**Backend y datos**
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase)
 
@@ -35,8 +38,6 @@ Playwright · Jest · Supertest · Selenium · Cypress · Pytest · Postman
 
 **Herramientas**
 
-![Herramientas](https://skillicons.dev/icons?i=git,github,gitlab,docker,python,bash)
-
 Capacitor · Netlify
 
 ## Proyectos destacados
@@ -46,7 +47,7 @@ Asistente de finanzas personales sin formularios: anotás un gasto o un ingreso 
 
 `React` `Vite` `Tailwind CSS` `Supabase` `Capacitor` `Playwright`
 
-### [Portfolio](https://portfoliosantigauna.netlify.app): [ver código](https://github.com/SantiGauna/frontend-portfolio)
+### [Portfolio](https://santigauna.netlify.app): [ver código](https://github.com/SantiGauna/frontend-portfolio)
 Mi sitio personal, con diseño editorial, animaciones ligadas al scroll, formulario de contacto con Netlify Forms y atención a la accesibilidad (navegación por teclado y respeto de "reducir movimiento").
 
 `React` `TypeScript` `Tailwind CSS` `Motion` `Netlify`
@@ -54,10 +55,7 @@ Mi sitio personal, con diseño editorial, animaciones ligadas al scroll, formula
 ## Contacto
 
 - **Email:** [sgaunamartinez@gmail.com](mailto:sgaunamartinez@gmail.com)
-## Contacto
-
-- **Email:** [sgaunamartinez@gmail.com](mailto:sgaunamartinez@gmail.com)
 - **LinkedIn:** [santiago-gauna-martínez](https://www.linkedin.com/in/santiago-gauna-martínez)
-- **Portfolio:** [portfoliosantigauna.netlify.app](https://portfoliosantigauna.netlify.app)
+- **Portfolio:** [santigauna.netlify.app](https://santigauna.netlify.app)
 
 ¿Tenés un proyecto en mente? Escribime y lo charlamos.
